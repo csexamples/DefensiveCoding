@@ -8,3 +8,4 @@
 /Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.AssemblyInfo.cs
 /Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.dll
 /Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.csprojAssemblyReference.cache

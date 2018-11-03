@@ -30,7 +30,7 @@ namespace CommonTest
                 }
             };
 
-            var expected = $"1: John, Smith Email: john@email.com Status: Active\n2: Rake Detail: Garden Rake With Steel Head Status: Active\n3: Date: 11/01/2018 00:00:00 Status: Active";
+            var expected = $"1: John, Smith Email: john@email.com Status: Active{Environment.NewLine}2: Rake Detail: Garden Rake With Steel Head Status: Active{Environment.NewLine}3: Date: 11/01/2018 00:00:00 Status: Active";
 
             var actual = LoggingService.WriteToFile(changedItems);
 
