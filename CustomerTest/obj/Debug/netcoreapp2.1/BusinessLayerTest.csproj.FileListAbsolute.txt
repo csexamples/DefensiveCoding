@@ -1,0 +1,17 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayerTest.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayerTest.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayerTest.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayerTest.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayerTest.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayer.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/bin/Debug/netcoreapp2.1/BusinessLayer.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.csproj.CopyComplete
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/CustomerTest/obj/Debug/netcoreapp2.1/BusinessLayerTest.pdb

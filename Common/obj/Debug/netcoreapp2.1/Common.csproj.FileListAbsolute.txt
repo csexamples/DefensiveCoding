@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/bin/Debug/netcoreapp2.1/Common.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/bin/Debug/netcoreapp2.1/Common.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/bin/Debug/netcoreapp2.1/Common.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/bin/Debug/netcoreapp2.1/Common.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/bin/Debug/netcoreapp2.1/Common.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CustomerManagementSystem/Common/obj/Debug/netcoreapp2.1/Common.pdb

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8638216D-8607-4839-B5C4-A5EA6AFFFBF8}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Tests.BusinessLayerTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerTest/CommonTest/LoggingServiceTest.cs">
+    <Files>
+      <File FileName="BusinessLayer/Product.cs" Line="6" Column="49" />
+      <File FileName="BusinessLayer/ProductRepository.cs" Line="37" Column="28" />
+      <File FileName="Common/StringHandler.cs" Line="13" Column="48" />
+      <File FileName="CustomerTest/CommonTest/StringHandlerTest.cs" Line="26" Column="48" />
+      <File FileName="BusinessLayer/Customer.cs" Line="70" Column="29" />
+      <File FileName="Common/LoggingService.cs" Line="17" Column="32" />
+      <File FileName="Common/ILoggable.cs" Line="7" Column="22" />
+      <File FileName="BusinessLayer/Order.cs" Line="30" Column="32" />
+      <File FileName="CustomerTest/CommonTest/LoggingServiceTest.cs" Line="37" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CustomerManagementSystem" expanded="True" selected="True">
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tests.CommonTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
